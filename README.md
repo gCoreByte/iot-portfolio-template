@@ -3,7 +3,7 @@
 
 Author: Martin Hans Keskküla
 
-My partner is <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
+My partner is Shpëtim Ibrani, [portfolio link](https://github.com/shpetimibrani/iot-portfolio)
 
 In my team for the final project, I also had the following members:
 - <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)

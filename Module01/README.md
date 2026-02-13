@@ -7,19 +7,19 @@
 ## Task Personal Profile
 
 Who am I?
+
 1. What type of programming experience do I have?
-   Mostly web development, but also some level of systems programming and as well as working with microcontrollers in previous courses.
+   Multiple years of professional web development, but also some prior experience with systems programming and as well as working with microcontrollers in previous courses.
 2. Microcontrollers?
    Arduino, home automation as well as coursework in university.
 3. Single board computers?
-   Rasp pi only
+   Raspberry Pi only
 4. Maker community?
-   Not a part, but I am interested in 3d printing.
+   Not a part of the maker community, but I am interested in 3d printing.
 5. IoT?
-   Quite familiar, has a lot of ties to pervasive data science.
+   I'm quite familiar with IoT, as it has a lot of ties to pervasive data science which is something that I'm also interested in.
 6. Expectations
-   Hands-on work with actual physical things. Not very interested in theoretical work.
-
+   I hope to do lots of practical, hands-on work as purely theoretical work bores me and I find it very difficult to be motivated.
 
 ## Task What is IoT
 
@@ -30,7 +30,6 @@ Domains and included areas:
 3. Agriculture - drones to track plant health, growth
 4. Smart cities
 5. Smart home automation
-
 
 Commonly used (data) protocols:
 
