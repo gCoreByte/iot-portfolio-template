@@ -1,14 +1,28 @@
 # Hardware
 
-This is the hardware, I/we took out.
+This is the hardware, we took out.
 
-## year-month-day
+## 2026-02-14
 
-- Dupont cables 20 socket to socket (watch https://youtu.be/yXirMBP3x4U for documentation)
-- 1x large breadboard, 1x medium size bredboard (watch https://youtu.be/yXirMBP3x4U for documentation)
--  ...
-
-![A picture showing all parts taken out this day.](/images/img01.jpg "A picture showing all parts taken out this day.]")
+- 2x Wemos D1 Mini
+- 1x Relay
+- 1x RGB LED
+- 1x MPR121
+- 1x RGB LED
+- 3x resistors
+- 2x buttons
+- 2x Micro USB cables
+- 1x USB charger
+- 1x 12V power supply
+- 1x Y-cable
+- 1x RFID reader
+- 1x RFID tag
+- 1x DHT22
+- Dupont cables (20 M-M)
+- Dupont cables (20 F-F)
+- Dupont cables (20 M-F)
+- 1x large breadboard
+- 1x medium size breadboard
 
 ## Connectivity Classification Table
 
