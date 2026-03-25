@@ -21,6 +21,9 @@ My personal profile and expectations, you can find [here](Module01/README.md#tas
   [Reflection 2](Reflections/ref02.md)
 - [Module 3: IoT Communication and Security](Module03/README.md),
   [Reflection 4](Reflections/ref04.md)
+- [Module 4: IoT Communication and Security](Module04/README.md),
+  [Reflection 5](Reflections/ref05.md),
+  [Reflection 6](Reflections/ref06.md)
 
 ## Miscellanious
 
