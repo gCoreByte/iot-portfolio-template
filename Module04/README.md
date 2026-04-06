@@ -35,6 +35,10 @@ The broken code uses `delay(1000)` inside the interrupt service routine (ISR). T
 
 - [Code](code/task9/main.cpp)
 
+It took a lot of time to get the LED strip working as the connectors are quite bad and need to be held at a very specific angle to work.
+
+![LED strip](pictures/led_strip.gif)
+
 ## Part 2
 
 ## Task 1
