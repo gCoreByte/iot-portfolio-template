@@ -1,0 +1,34 @@
+Publish message: hello world #6 - division 166
+Publish message: hello world #5 - division 200
+Publish message: hello world #4 - division 250
+Publish message: hello world #3 - division 333
+Publish message: hello world #2 - division 500
+Publish message: hello world #1 - division 1000
+
+--------------- CUT HERE FOR EXCEPTION DECODER ---------------
+
+Exception (6):
+epc1=0x40201351 epc2=0x00000000 epc3=0x00000000 excvaddr=0x00000000 depc=0x00000000
+
+>>>stack>>>
+
+ctx: cont
+sp: 3ffffe60 end: 3fffffd0 offset: 0150
+3fffffb0:  3fffdad0 00000000 3ffee7b4 40204220
+3fffffc0:  feefeffe feefeffe 3fffdab0 40100d95
+<<<stack<<<
+
+--------------- CUT HERE FOR EXCEPTION DECODER ---------------
+
+ ets Jan  8 2013,rst cause:2, boot mode:(3,6)
+
+load 0x4010f000, len 3424, room 16
+tail 0
+chksum 0x2e
+load 0x3fff20b8, len 40, room 8
+tail 0
+chksum 0x2b
+csum 0x2b
+v00045a20
+~ld
+����g�s��o|�l�d`c��|s�d�o��g�d`��{�l�l��

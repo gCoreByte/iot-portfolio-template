@@ -1,0 +1,25 @@
+Publish message: hello world #47
+Message arrived [inTopic] test
+Something special coming up...
+The following:
+--------------- CUT HERE FOR EXCEPTION DECODER ---------------
+
+Exception (29):
+epc1=0x4020109a epc2=0x00000000 epc3=0x00000000 excvaddr=0x00000000 depc=0x00000000
+
+>>>stack>>>
+
+ctx: cont
+sp: 3ffffdf0 end: 3fffffd0 offset: 0150
+3fffff40:  00000000 3ffee648 3ffee648 00000001
+3fffff50:  00000001 00017bac 3ffee648 40202b18
+3fffff60:  00000004 3ffef49f 3ffef497 402020b6
+3fffff70:  00000000 000178ea 11eb8501 01b3cea4
+3fffff80:  00000003 00000007 0000000f 00000004
+3fffff90:  3ffef494 3ffee648 3ffee648 3ffee798
+3fffffa0:  3fffdad0 00000000 3ffee648 40201313
+3fffffb0:  3fffdad0 00000000 3ffee76c 40204204
+3fffffc0:  feefeffe feefeffe 3fffdab0 40100d95
+<<<stack<<<
+
+--------------- CUT HERE FOR EXCEPTION DECODER ---------------
