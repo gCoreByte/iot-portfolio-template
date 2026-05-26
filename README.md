@@ -6,10 +6,10 @@ Author: Martin Hans Keskküla
 My partner is Shpëtim Ibrani, [portfolio link](https://github.com/shpetimibrani/iot-portfolio)
 
 In my team for the final project, I also had the following members:
-- <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
-- <replace these pointy brackets with their full name>, [portfolio link](https://github.com/partner/iot-portfolio)
+- Thomas Wolf [portfolio link](https://github.com/RedToxyl/thw-iot)
+- Egor Lukjanenko, [portfolio link](https://github.com/egor123/iot-portfolio)
 
-Our team final project repository is [here](https://github.com/somewhere/final-iot-project)
+Our team final project repository is [here](https://github.com/RedToxyl/tartu-iot-bike)
 
 My personal profile and expectations, you can find [here](Module01/README.md#task-personal-profile).
 
